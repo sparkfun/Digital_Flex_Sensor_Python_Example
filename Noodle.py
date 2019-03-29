@@ -5,6 +5,11 @@ This script reads info from a 2-Axis, 4in BendLabs Digital Flex Sensor Found her
 https://www.sparkfun.com/products/15245
 
 The script modles the data using matplotlib to show a simple 3d graphic
+
+Requirements:
+- pyserial
+- matplotlib
+- numpy
 """
 
 import numpy as np
