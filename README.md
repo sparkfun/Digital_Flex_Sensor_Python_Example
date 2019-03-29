@@ -1,7 +1,7 @@
 SparkFun Digital Flex Sensor Python Demo
 ===========================================================
 
-![SparkFun Qwiic MP3 Trigger](https://cdn.sparkfun.com//assets/parts/1/3/5/5/5/15165-SparkFun_Qwiic_MP3_Trigger-01.jpg)
+![SparkFun Digital Flex Sensor Python Image](https://github.com/sparkfun/Digital_Flex_Sensor_Python_Example/blob/master/readme_image.jpg?raw=true)
 
 [*SparkFun Qwiic MP3 Trigger (DEV-15165)*](https://www.sparkfun.com/products/15165)
 
